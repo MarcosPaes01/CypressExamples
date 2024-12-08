@@ -1,0 +1,5 @@
+# Ignore all directories
+*/
+
+# Allow specific folder
+!node_modules/
