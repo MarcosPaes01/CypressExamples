@@ -7,25 +7,25 @@ This repository contains Cypress examples showcasing:
 
 Our goal is to provide practical, well-documented examples to help QA engineers and developers learn and implement Cypress effectively.
 
-Project Structure
+# Project Structure
 
-├── cypress/
-│   ├── e2e/               # Contains E2E test cases
-│   ├── api/               # Contains API automation test cases
-│   ├── fixtures/          # Test data (e.g., JSON files for mock responses)
-│   ├── support/           # Reusable commands and test configuration
-├── .gitignore             # Ignore some files for updatings on git 
-├── cypress.config.js      # Cypress configuration file
-├── package.json           # Project dependencies and scripts
-└── README.md              # Project documentation
+- cypress/
+- - e2e/               # Contains E2E test cases
+- - api/               # Contains API automation test cases
+- - fixtures/          # Test data (e.g., JSON files for mock responses)
+- - support/           # Reusable commands and test configuration
+- .gitignore             # Ignore some files for updatings on git 
+- cypress.config.js      # Cypress configuration file
+- package.json           # Project dependencies and scripts
+- README.md              # Project documentation
 
-- Getting Started
+# Getting Started
 
 1. Prerequisites
 Ensure you have the following installed:
 
 Node.js (version 14 or higher)
-npm or yarn
+* npm or yarn
 
 2. Installation
 Clone this repository:
